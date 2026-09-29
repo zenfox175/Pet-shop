@@ -1,4 +1,4 @@
-Integrantes do Grupo
+# Integrantes do Grupo
 Davi Simao
 Erik Santos
 Joao Teixeira
