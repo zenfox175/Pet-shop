@@ -1,3 +1,10 @@
+Integrantes do Grupo
+Davi Simao
+Erik Santos
+Joao Teixeira
+Lorenzzo Silva
+Luan Jacobina
+
 # PetShop API
 
 ## Descrição
